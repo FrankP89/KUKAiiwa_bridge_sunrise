@@ -148,5 +148,6 @@
 			<attribute name="javadoc_location" value="jar:platform:/resource/KUKA_Modbus/KUKA_bridge/KUKAJavaLib/#Bundle-JavaDoc#!/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/walter-frank/Desktop/Sunrise/KUKAiiwa_bridge/References/EasyModbusJava.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
